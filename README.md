@@ -1,7 +1,7 @@
 # IronViz_Movies
 
-Attached is the data used for my IronViz Feeder Entry on Trilogies 
+Here is the data used for my IronViz Feeder Entry on Trilogies 
 
-Movie Data:
+[Movie info](triad.xlsx)  
 
-Data to create the Coxcomb chart:
+[Data to create the Coxcomb chart](coxcomb.xlsx)
